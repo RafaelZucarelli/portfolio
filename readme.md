@@ -19,6 +19,8 @@ Elaborei este portfólio com o objetivo de evidenciar minhas habilidades e as te
 - JavaScript
 - CSS3
 - HTML5
+- Bootstrap
+- Tailwind
 
 ## Curiosidades
 
