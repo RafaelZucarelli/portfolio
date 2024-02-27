@@ -1,4 +1,4 @@
-# Flávia Figueredo - Portfólio
+# Rafael Zucarelli - Portfólio
 
 Bem-vindo(a) ao meu portfólio! Sou o Rafael Alves Zucarelli, desenvolvedor FrontEnd Jr.
 
